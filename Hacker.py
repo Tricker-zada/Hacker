@@ -143,7 +143,7 @@ def login():
 		pwd = raw_input('\033[1;96m[+] \x1b[1;91mPassword\x1b[1;96m: \x1b[1;93m')
 		tik()
 		try:
-			br.open('https://www.facebook.com/Ayan.Mughal4561)
+			br.open('https://https://m.facebook.com)
 		except mechanize.URLError:
 			print"\n\x1b[1;96mThere is no internet connection"
 			keluar()
